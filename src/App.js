@@ -17,6 +17,7 @@ const App = () => {
       <div className="App">
         <nav>
           <ul>
+            <li><p>Click on Home button below.</p></li>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/chart">Chart</Link></li>
           </ul>
